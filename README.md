@@ -1,8 +1,3 @@
----
-languages: javascript
-tags: functions, callbacks
----
-
 # Callbacks
 
 In Javascript, you can pass in functions as arguments! Exciting, right?
