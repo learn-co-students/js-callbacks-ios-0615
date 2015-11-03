@@ -33,7 +33,7 @@ printAndCallback("I'm fine, thanks!", function(){ return 3; })
 
 ## Note
 
-When you pass a function in as an argument, do not call it with `()`!
+Remember, calling a function with `()` means that you'll execute that code immediately. When you pass a function in as an argument, do not call it with `()`!
 
 ## Instructions
 
